@@ -14,7 +14,7 @@ struct ContentView: View {
     var body: some View {
 
         VStack {
-            Text("Hello, World!")
+            Text("Hello, World! This is the first commit")
         }
         HStack {
             BoxModel(x: 0, y: 1.0, z: -2.0)
